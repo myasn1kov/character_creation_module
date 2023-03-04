@@ -35,7 +35,6 @@ def special(char_name, char_class):
         return (f'{char_name} применил специальное умение '
                 f'«Защита {10 + 30}»')
     return (f'{char_name} не применил специальное умение')
-    
 
 
 def start_training(char_name, char_class):
